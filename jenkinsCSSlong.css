@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
 
 #top-panel {
-  background: "Atlas Automation"; }
+  background: none; }
   #top-panel td#login-field span a {
     background: none; }
   #top-panel td #searchform a {
@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 40px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
-      display: none; }
+      display: "Atlas Automation"; }
 
 #projectstatus {
   background: #fff; }
