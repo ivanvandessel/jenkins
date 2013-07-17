@@ -15,7 +15,7 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
 }
 
 #top-panel {
-   background-image: none;
+   background-image: url("http://en.wikipedia.org/wiki/File:Energizer_Bunny.png") 0 0 no-repeat;
    background: black;
 }
 
