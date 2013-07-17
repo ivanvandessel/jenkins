@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
 
 #top-panel {
-  background: none; }
+  background: "Atlas Automation"; }
   #top-panel td#login-field span a {
     background: none; }
   #top-panel td #searchform a {
-    background: "Atlas Automation CI";
+    background: none;
     height: auto;
     width: auto; }
   #top-panel td > a {
